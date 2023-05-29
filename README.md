@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe_Game
 Tic Tac toe
 
 # It's A small Gaming project 
